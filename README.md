@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/montmartre-pigeon.jpg
-coverY: -1.8050541516245486
+cover: .gitbook/assets/imageBandeau.001.jpeg
+coverY: 0
 ---
 
 # ⭐ Journalisme de données II \~ Hiver 2023
