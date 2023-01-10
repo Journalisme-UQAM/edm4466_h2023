@@ -14,7 +14,7 @@ Pourrait également s'appeler _Programmation à des fins journalistiques_.
 | Local (s'il y a lieu)                 | J-4315                                                                                                   |
 | Salle Zoom (au besoin)                | [https://bit.ly/edm4466H23](https://bit.ly/edm4466H23)                                                   |
 | Enseignant                            | [Jean-Hugues Roy](intro/enseignant.md)                                                                   |
-| Plan de cours dynamique               | [https://journalisme-uqam.gitbook.io/edm4466\_2023/](https://journalisme-uqam.gitbook.io/edm4466\_2023/) |
+| Plan de cours dynamique               | [https://journalisme-uqam.gitbook.io/edm4466-h2023/](https://journalisme-uqam.gitbook.io/edm4466-h2023/) |
 | Répertoire Google Drive pour fichiers | [https://bit.ly/fichColab23](https://bit.ly/fichColab23)                                                 |
 
 _**Remarque** : avoir son propre ordinateur portable est assez incontournable pour suivre ce cours._
