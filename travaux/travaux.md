@@ -75,9 +75,9 @@ Vous me remettez votre carnet (**devoir5.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 27 mars 2023.
 
-### Projet final (25 points)
+### Projet final (30 points)
 
-Pour votre projet final, vous avez deux options. Vous pouvez faire :
+Pour votre projet final, qui est un travail **individuel**, vous avez deux options. Vous pouvez faire :
 
 * un <mark style="background-color:blue;">**reportage**</mark> ou
 * un <mark style="background-color:green;">**outil**</mark>
