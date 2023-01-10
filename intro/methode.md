@@ -17,13 +17,13 @@ Python a ses avantages et ses inconvénients, comme tous les langages informatiq
 Plus concrètement, on s'en servira pour :
 
 * **moissonner** des données, ou faire du _data scraping,_
-* faire du **traitement du langage naturel** (ou _Natural Language Processing \[NLP]_), ce qui nécessite l'utilisation d'une forme d'« intelligence artificielle »,
-* **analyser** des données lorsqu'elles sont trop volumineuses pour un tableur comme _Excel_ ou _Calc_ de LibreOffice,
-* **visualiser** des données.
+* **extraire du sens** de grands volume de texte avec du **traitement du langage naturel** (ou _Natural Language Processing \[NLP]_),
+* **se familiariser** avec différentes techniques d'« intelligence artificielle » appliquée, ou d'**apprentissage automatique** (Machine Learning \[ML]),
+* **analyser** des données lorsqu'elles sont trop volumineuses pour un tableur comme _Excel_ ou _Calc_ de LibreOffice.
 
 ![Logo du Google Colaboratory, surimposé sur cette photo du pont Pierre-Laporte sans raison particulière sinon que je trouvais cette photo chouette. ](../.gitbook/assets/colab.jpg)
 
-On va le faire au moyen d'un outil que j'utilise pour la première fois : [Google Colaboratory](https://colab.research.google.com), ou [**Colab**](https://colab.research.google.com). Pour ce faire, il faut que vous disposiez d'un compte Google (si vous vous servez déjà de Gmail et/ou de Google Drive, tout va bien).
+On va le faire au moyen de [Google Colaboratory](https://colab.research.google.com), ou [**Colab**](https://colab.research.google.com). Pour ce faire, il faut que vous disposiez d'un compte Google (si vous vous servez déjà de Gmail et/ou de Google Drive, tout va bien).
 
 Je ne suis pas un _cheerleader_ des GAFA. Mais si j'ai opté pour Colab, c'est après avoir jonglé avec plusieurs autres options au cours des sessions précédentes :
 
@@ -38,7 +38,7 @@ Ce service devrait donc fonctionner, quel que soit l'ordi que vous possédez : 
 
 ![Colab dans l'application Chrome sous iOS 15.1 sur un iPhone XR](../.gitbook/assets/colab-ios.png)
 
-Il permet de programmer à l'intérieur de ce qu'on appelle des **carnets**, ou _**notebooks**_, en anglais. Vous me rendrez d'ailleurs la plupart des devoirs sous la forme de carnets.
+Il permet de programmer à l'intérieur de ce qu'on appelle des **carnets**, ou _**notebooks**_, en anglais. Vous me rendrez d'ailleurs vos devoirs sous la forme de carnets.
 
 Lorsque ce sera nécessaire, je partagerai au préalable avec vous des fichiers qui seront utiles dans le cadre des exercices en classe dans [ce répertoire partagé sur Google Drive](https://bit.ly/fichColab23), répertoire auquel vous pouvez aussi accéder directement à partir de Colab.
 
@@ -52,4 +52,4 @@ Inversement, si vous connaissez une technique, un outil, un truc, n'hésitez jam
 >
 > * Neil deGrasse Tyson
 
-![](../.gitbook/assets/NeilDTyson.jpg)
+![L'un de mes héros <3](../.gitbook/assets/NeilDTyson.jpg)
