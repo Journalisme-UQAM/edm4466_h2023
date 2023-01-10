@@ -22,6 +22,6 @@ Une fois ce raccourci créé, dans Colab, vous aurez à autoriser Colab à accé
 
 #### Le répertoire devrait être accessible
 
-Une fois cette autorisation effectuée, il faudra peut-être patienter un brin. Mais vous devriez voir le dossier appelé **« Fichiers EDM4466-H22 »** dans la section _Fichiers_, répertoire _drive > MyDrive_, ou plus précisément _**content > drive > MyDrive**._
+Une fois cette autorisation effectuée, il faudra peut-être patienter un brin. Mais vous devriez voir le dossier appelé **« FichJHR\_EDM4466\_H2023 »** dans la section _Fichiers_, répertoire _drive > MyDrive_, ou plus précisément _**content > drive > MyDrive**._
 
 <figure><img src="../.gitbook/assets/gDrive5.png" alt=""><figcaption></figcaption></figure>
