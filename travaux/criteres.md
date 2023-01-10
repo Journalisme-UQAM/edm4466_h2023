@@ -24,7 +24,7 @@ Je ne tiendrai pas compte des fautes de français dans les commentaires que vous
 
 Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir une intense frustration qui ne m'est pas étrangère. Il m'arrive fréquemment de rager et d'avoir envie de défenestrer mon ordinateur. Ne vous laissez pas paralyser. N'hésitez pas, non plus, à demander de l'aide (m'écrire, me téléphoner ou venir me voir à mon bureau \[si :microbe: le permet]).
 
-![Source: DVHACKER.](../.gitbook/assets/destroille.gif)
+<figure><img src="../.gitbook/assets/lapid.gif" alt=""><figcaption><p>Source: <a href="https://tenor.com/fr/users/thinkjules">ThinkJules</a></p></figcaption></figure>
 
 ### Travail final et _making-of_
 
