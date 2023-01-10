@@ -23,9 +23,9 @@
 * [💠 09.Machine learning + TAL 3](contenu/09.ml-+-tal-3.md)
 * [🐼 10.Pandas 1](contenu/10.pandas-1.md)
 * [🐼 11.Pandas 2](contenu/11.pandas-2.md)
-* [🖖 12.Tutorat 1](contenu/12.viz-1.md)
-* [🙏 13.Tutorat 2](contenu/13.viz-2.md)
-* [🍲 14.Tutorat 3 + InstallFest](contenu/14.tutorat-+-installfest.md)
+* [🖖 12.Tutorat 1](contenu/12.tutorat-1.md)
+* [🙏 13.Tutorat 2](contenu/13.tutorat-2.md)
+* [🍲 14.Tutorat 3 + InstallFest](contenu/14.tuto-3-+-install.md)
 * [😎 15.Présentations](contenu/15.presentations.md)
 
 ## Travaux
