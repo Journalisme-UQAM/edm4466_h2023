@@ -20,7 +20,7 @@
 * [👅 06.TAL 1](contenu/06.tal-1.md)
 * [📜 07.TAL 2 + Brainstorm](contenu/07.tal-2-+-brainstorm.md)
 * [🏖 08.Relâche](contenu/08.relache.md)
-* [💠 09.Machine learning + TAL 3](contenu/09.tal-2.md)
+* [💠 09.Machine learning + TAL 3](contenu/09.ml-+-tal-3.md)
 * [🐼 10.Pandas 1](contenu/10.pandas-1.md)
 * [🐼 11.Pandas 2](contenu/11.pandas-2.md)
 * [🖖 12.Tutorat 1](contenu/12.viz-1.md)
