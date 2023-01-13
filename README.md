@@ -17,6 +17,10 @@ Pourrait également s'appeler _Programmation à des fins journalistiques_.
 | Plan de cours dynamique               | [https://journalisme-uqam.gitbook.io/edm4466-h2023/](https://journalisme-uqam.gitbook.io/edm4466-h2023/) |
 | Répertoire Google Drive pour fichiers | [https://bit.ly/fichColab23](https://bit.ly/fichColab23)                                                 |
 
-_**Remarque** : avoir son propre ordinateur portable est assez incontournable pour suivre ce cours._
+_**Remarque** : avoir son propre ordinateur portable est relativement incontournable pour suivre ce cours._
+
+<figure><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt=""><figcaption></figcaption></figure>
+
+L'auteur de ce plan de cours ([Jean-Hugues Roy](https://professeurs.uqam.ca/professeur/WyTzZVrQL3o\_/)) le met à disposition selon les termes de la [licence Creative Commons Paternité - Pas d'Utilisation Commerciale 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
 
 _****_
