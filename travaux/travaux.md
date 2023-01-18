@@ -4,29 +4,23 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 Liens directs vers les devoirs:
 
-* Devoir 1
+* [Devoir 1](travaux.md#devoir-1)
 * Devoir 2
 * Devoir 3
 * Devoir 4
 * Devoir 5
 
-### Devoir 1 (10 points) <a href="#devoir-1" id="devoir-1"></a>
+### Devoir 1 - Triptyque (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
-Description
+Rendez-vous dans ce carnet que j'ai créé pour vous.
 
-**Étape 1**
+Assurez-vous d'abord d'en créer une copie dans votre Drive.
 
-Créez un carnet dans Colab. Appelez-le **devoir1.ipynb**.
+<figure><img src="../.gitbook/assets/dev1-sauvegardeDrive.jpg" alt=""><figcaption></figcaption></figure>
 
-**Étape 2**
+Répondez ensuite à toutes les questions que je vous y pose.
 
-Utilisez le bouton marqué par la flèche ci-dessous...
-
-![](../.gitbook/assets/uplode.png)
-
-... pour y téléverser le fichier...
-
-Téléchargez votre carnet en format .ipynb sur votre ordinateur.
+Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
 Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
 
