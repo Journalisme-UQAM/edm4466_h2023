@@ -12,7 +12,7 @@ Liens directs vers les devoirs:
 
 ### Devoir 1 - Triptyque (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
-Rendez-vous dans ce carnet que j'ai créé pour vous.
+Rendez-vous dans [ce carnet que j'ai créé pour vous](https://colab.research.google.com/drive/1E8fnf7aneQj1uc3TWaE59fYMeylyPxuB?usp=sharing).
 
 Assurez-vous d'abord d'en créer une copie dans votre Drive.
 
