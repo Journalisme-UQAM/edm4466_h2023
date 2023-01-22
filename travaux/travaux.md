@@ -20,6 +20,8 @@ Assurez-vous d'abord d'en créer une copie dans votre Drive.
 
 Répondez ensuite à toutes les questions que je vous y pose.
 
+Le [carnet de mes notes du cours python 1](https://colab.research.google.com/drive/1QG-qvMPWkyvVI5eyRwGLX-MRg0jeLEol?usp=sharing) peut vous aider.
+
 Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
 Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
