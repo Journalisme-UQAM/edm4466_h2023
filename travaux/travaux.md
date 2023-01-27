@@ -40,7 +40,7 @@ Créez un carnet dans Colab. Appelez-le **devoir2.ipynb**.
 
 Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle. Il n'est pas nécessaire de joindre le fichier CSV que votre code produira.
 
-Tombée : 23h59, le lundi 30 janvier 2023
+Tombée : 23h59, le lundi 6 février 2023
 
 ### Devoir 3 (15 points) - Moissonnage <a href="#devoir-3" id="devoir-3"></a>
 
