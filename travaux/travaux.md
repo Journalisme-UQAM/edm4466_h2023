@@ -5,7 +5,7 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 Liens directs vers les devoirs:
 
 * [Devoir 1](travaux.md#devoir-1)
-* Devoir 2
+* [Devoir 2](travaux.md#devoir-2)
 * Devoir 3
 * Devoir 4
 * Devoir 5
@@ -28,7 +28,7 @@ Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 23 janvier 2023.
 
-### Devoir 2 (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 2 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
 #### Étape 1
 
