@@ -6,17 +6,13 @@ Liens directs vers les devoirs:
 
 * [Devoir 1](travaux.md#devoir-1)
 * [Devoir 2](travaux.md#devoir-2)
-* Devoir 3
+* [Devoir 3](travaux.md#devoir-3)
 * Devoir 4
 * Devoir 5
 
 ### Devoir 1 - Triptyque (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
-Rendez-vous dans [ce carnet que j'ai créé pour vous](https://colab.research.google.com/drive/1E8fnf7aneQj1uc3TWaE59fYMeylyPxuB?usp=sharing).
-
-Assurez-vous d'abord d'en créer une copie dans votre Drive.
-
-<figure><img src="../.gitbook/assets/dev1-sauvegardeDrive.jpg" alt=""><figcaption></figcaption></figure>
+Rendez-vous dans [ce carnet que j'ai créé pour vous](https://colab.research.google.com/drive/1E8fnf7aneQj1uc3TWaE59fYMeylyPxuB?usp=sharing). Assurez-vous d'abord d'en créer une copie dans votre Drive.
 
 Répondez ensuite à toutes les questions que je vous y pose.
 
@@ -30,32 +26,31 @@ Tombée : 23h59, le lundi 23 janvier 2023.
 
 ### Devoir 2 - CSV et API (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
-#### Étape 1
+Comme avec le devoir 1, rendez-vous dans ce carnet que j'ai créé pour vous.
 
-Créez un carnet dans Colab. Appelez-le **devoir2.ipynb**.
+Assurez-vous d'abord d'en créer **une copie dans votre Drive**, puis répondez à toutes les questions que je vous y pose.
 
-#### Étape 4 (une de moins!)
+Les trois premiers carnets de mes notes du cours (que vous trouverez dans la section [Tutoriels](../contenu/00.tutoriels.md)) peuvent vous être utiles.
 
-À partir du menu «Fichier» de l'interface Colab, téléchargez votre carnet en format `.ipynb` sur votre ordinateur.
+Quand vous avez terminé, téléchargez votre carnet en **format .ipynb** sur votre ordinateur.
 
-Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle. Il n'est pas nécessaire de joindre le fichier CSV que votre code produira.
+Remettez votre carnet (**devoir2.ipynb**) dans Moodle
 
 Tombée : 23h59, le lundi 6 février 2023 (tel que convenu au cours du 26 janvier).
 
 ### Devoir 3 (15 points) - Moissonnage <a href="#devoir-3" id="devoir-3"></a>
 
-Votre carnet doit:
+Vous devrez rédiger un carnet qui moissonne les textes d'un•e journaliste ou chroniquer•euse de votre choix. On se servira plus tard de ces textes pour entraîner un modèle de langue. Votre carnet devra :
 
-* moissonner un site web ou un API de votre choix (allez-y en fonction de vos intérêts: sports, culture, politique internationale, mode, etc.) et
-* produire un CSV avec les données (textes, nombres, dates, montants, coordonnées, URL, images, etc.) que vous y recueillerez,
-* m'expliquer ce que fait votre code,
-* m'expliquer pourquoi ces données vous intéressent.
+* contenir suffisamment de commentaires pour que je comprenne ce qu'il fait.
+* afficher suffisamment d'information dans votre carnet pour qu'on puisse en suivre le déroulement.
+* produire un fichier CSV contenant les textes de cette personne :
+  * pour l'année 2022 (à condition qu'elle ait publié 100 textes ou plus en 2022), ou
+  * 100 textes (ou idéalement plus) publiés sur un nombre entier d'années (2 années ou plus).
 
-Ce CSV devra contenir au moins 100 lignes et 5 colonnes. Consultez-moi si cela est différent, peut-être que votre site ou API est structuré de façon telle qu'il peut représenter un défi particuliier.
+Vous me le remettez par Moodle, comme d'habitude (**devoir3.ipynb**)
 
 Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotating\_light:
-
-Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 13 février 2023.
 
