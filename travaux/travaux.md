@@ -28,7 +28,7 @@ Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 23 janvier 2023.
 
-### Devoir 2 - À venir (10 points) <a href="#devoir-2" id="devoir-2"></a>
+### Devoir 2 - CSV et API (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
 #### Étape 1
 
