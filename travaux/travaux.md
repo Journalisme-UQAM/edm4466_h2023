@@ -26,7 +26,7 @@ Tombée : 23h59, le lundi 23 janvier 2023.
 
 ### Devoir 2 - CSV et API (10 points) <a href="#devoir-2" id="devoir-2"></a>
 
-Comme avec le devoir 1, rendez-vous dans ce carnet que j'ai créé pour vous.
+Comme avec le devoir 1, rendez-vous dans [ce carnet que j'ai créé pour vous](https://colab.research.google.com/drive/1-9RMXtjA42HUxjH938kD2v1NobvJY5OC?usp=sharing).
 
 Assurez-vous d'abord d'en créer **une copie dans votre Drive**, puis répondez à toutes les questions que je vous y pose.
 
