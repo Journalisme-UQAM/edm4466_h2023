@@ -52,7 +52,7 @@ Vous me le remettez par Moodle, comme d'habitude (**devoir3.ipynb**)
 
 Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotating\_light:
 
-Tombée : 23h59, le lundi 13 février 2023.
+Tombée : 23h59, le lundi 20 février 2023.
 
 ### Devoir 4 (10 points) <a href="#devoir-4" id="devoir-4"></a>
 

@@ -7,15 +7,16 @@ coverY: 0
 
 Pourrait également s'appeler _Programmation à des fins journalistiques_.
 
-| Clé                                   | Valeur                                                                                                   |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Période                               | Les jeudis matin (9h30 à 12h30)                                                                          |
-| Dates                                 | Du 12 janvier au 20 avril 2023                                                                           |
-| Local (s'il y a lieu)                 | J-4315                                                                                                   |
-| Salle Zoom (au besoin)                | [https://bit.ly/edm4466H23](https://bit.ly/edm4466H23)                                                   |
-| Enseignant                            | [Jean-Hugues Roy](intro/enseignant.md)                                                                   |
-| Plan de cours dynamique               | [https://journalisme-uqam.gitbook.io/edm4466-h2023/](https://journalisme-uqam.gitbook.io/edm4466-h2023/) |
-| Répertoire Google Drive pour fichiers | [https://bit.ly/fichColab23](https://bit.ly/fichColab23)                                                 |
+| Clé                                                                  | Valeur                                                                                                   |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Période                                                              | Les jeudis matin (9h30 à 12h30)                                                                          |
+| Dates                                                                | Du 12 janvier au 20 avril 2023                                                                           |
+| Local (s'il y a lieu)                                                | J-4315                                                                                                   |
+| Salle Zoom (au besoin)                                               | [https://bit.ly/edm4466H23](https://bit.ly/edm4466H23)                                                   |
+| Enseignant                                                           | [Jean-Hugues Roy](intro/enseignant.md)                                                                   |
+| Plan de cours dynamique                                              | [https://journalisme-uqam.gitbook.io/edm4466-h2023/](https://journalisme-uqam.gitbook.io/edm4466-h2023/) |
+| Répertoire Google Drive pour fichiers                                | [https://bit.ly/fichColab23](https://bit.ly/fichColab23)                                                 |
+| Pour voir quand les changements apportés au plan de cours l'ont été  | [https://github.com/Journalisme-UQAM/edm4466\_h2023](https://github.com/Journalisme-UQAM/edm4466\_h2023) |
 
 _**Remarque** : avoir son propre ordinateur portable est relativement incontournable pour suivre ce cours._
 
