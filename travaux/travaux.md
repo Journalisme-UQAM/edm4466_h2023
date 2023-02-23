@@ -7,7 +7,7 @@ Liens directs vers les devoirs:
 * [Devoir 1](travaux.md#devoir-1)
 * [Devoir 2](travaux.md#devoir-2)
 * [Devoir 3](travaux.md#devoir-3)
-* Devoir 4
+* [Devoir 4](travaux.md#devoir-4)
 * Devoir 5
 
 ### Devoir 1 - Triptyque (10 points) <a href="#devoir-1" id="devoir-1"></a>
@@ -54,7 +54,13 @@ Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotatin
 
 Tombée : 23h59, le lundi 20 février 2023.
 
-### Devoir 4 (10 points) <a href="#devoir-4" id="devoir-4"></a>
+### Devoir 4 (10 points) - TAL <a href="#devoir-4" id="devoir-4"></a>
+
+Rédigez un carnet dans lequel vous générez la liste des 100 bigrammes de lemmes les plus couramment utilisés dans les textes que vous avez moissonnés dans votre **Devoir 3**. Tâchez de nettoyer le texte pour que les bigrammes aient du sens (enlevez des _tokens_ peu significatifs).
+
+Utilisez les fichiers CSV que j'ai générés pour vous dans ma correction de votre devoir 3.
+
+Si vous n'en avez pas, utilisez le fichier `ameli_pineda.csv` que vous trouverez dans le répertoire Google Drive que je partage avec vous. Il contient tous les textes que la chroniqueuse judiciaire du _Devoir_, lauréate d'un Judith-Jasmin et diplômée du programme, a publiés en 2020 et 2021.
 
 Vous me remettez votre carnet (**devoir4.ipynb**) dans Moodle.
 
