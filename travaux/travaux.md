@@ -8,7 +8,7 @@ Liens directs vers les devoirs:
 * [Devoir 2](travaux.md#devoir-2)
 * [Devoir 3](travaux.md#devoir-3)
 * [Devoir 4](travaux.md#devoir-4)
-* Devoir 5
+* [Devoir 5](travaux.md#devoir-5)
 
 ### Devoir 1 - Triptyque (10 points) <a href="#devoir-1" id="devoir-1"></a>
 
@@ -66,7 +66,17 @@ Vous me remettez votre carnet (**devoir4.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 6 mars 2023.
 
-### Devoir 5 (10 points) - Description à venir <a href="#devoir-5" id="devoir-5"></a>
+### Devoir 5 (10 points) - Pandas <a href="#devoir-5" id="devoir-5"></a>
+
+Rédigez un carnet dans lequel vous lisez, avec Pandas, le fichier **fbQC22.csv**. Il contient des données sur les plus d'un demi-million de publications Facebook mises en ligne par l'ensemble des médias du Québec.
+
+Après avoir lu le fichier \[1 point], rédigez du code à l'aide de `pandas` pour répondre aux trois questions suivantes:
+
+* Quels sont les 25 médias qui ont mis en ligne le plus grand nombre de publications Facebook en 2022 \[1 point]?
+* Quels sont les 25 médias dont les publications ont généré le plus d'interactions dans Facebook en 2022 (il vous faut auparavant créer une colonne `interactions` qui est la somme des `partages`, des `commentaires`, des `likes`, des `love`, des `wow`, des `haha`, des `triste`, des `colère` et des `solidarité`) \[4 points].
+* Trouvez la vidéo qui a cumulé le plus grand nombre de vues (`videoVuesTotales`). Assurez-vous:
+  * qu'il s'agit d'une vidéo dont le statut (`videoStatut`) est _`owned`_ et
+  * que le média qui l'a mise en ligne en est propriétaire (la valeur de la colonne `videoProprio` est _`Yes`_). \[4 points].
 
 Vous me remettez votre carnet (**devoir5.ipynb**) dans Moodle.
 
